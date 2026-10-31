@@ -31,12 +31,3 @@ app/src/main/java/com/example/composetutorial/
 └── ui/theme/            # Color.kt, Type.kt, Shape.kt, Theme.kt
 ```
 
-## Как запустить
-
-1. Android Studio → **File → Open** → выбрать папку проекта, дождаться Gradle Sync.
-2. Выбрать эмулятор (телефон или планшет) или подключённое устройство, Android 12 (API 31) и выше.
-3. Нажать **Run ▶**.
-
-По умолчанию приложение тёмное, как в макете (константа `FORCE_DARK_THEME` в `MainActivity.kt`; светлая тема тоже реализована).
-
-Использованные версии: AGP 8.7.3, Kotlin 2.0.21, Compose BOM 2024.10.01, Material 3, compileSdk 35.
