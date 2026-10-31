@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulse Fit</string>
+    <string name="brand_name">PULSE FIT</string>
+    <string name="chat_title">Помощь тренера</string>
+    <string name="menu_description">Меню</string>
+    <string name="avatar_description">Фото профиля: %1$s</string>
+</resources>
